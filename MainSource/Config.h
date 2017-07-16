@@ -24,7 +24,7 @@
 #endif
 /*******Comm address******************************************************************************/
 #define ROOM_ADDRESS 		(0x01)
-#define ME_ADDRESS			(0x02)
+#define ME_ADDRESS			(0xFF)
 #define CHANGE_ADDR_EN		(1)
 /********Other define**********************************************************************************/
 #define MOS_INIT_STATE		0
